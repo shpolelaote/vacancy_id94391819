@@ -3,7 +3,7 @@
 > One2Many
 > > pyspark_test.ipynb
 
-Для него были созданы небольшие csv таблицы для демонстрации примера решения. Данные таблицы описаны в [блокноте](https://github.com/shpolelaote/vacancy_id94391819/blob/main/One2Many/pyspark_test.ipynb) соотвествующего решения.
+Для него были созданы небольшие csv таблицы для демонстрации примера решения. Данные таблицы описаны в [блокноте](https://github.com/shpolelaote/vacancy_id94391819/blob/main/One2Many/pyspark_test.ipynb) соотвествующего решения и находятся в общей директории вместе с блокнотом.
 
 # Задание 2. Продукт-категория
 В папке TestTriangle находится файл [triangleArea.cs](https://github.com/shpolelaote/vacancy_id94391819/blob/main/TestTriangle/triangleArea.cs), который имеет метод ShapeArea, выполняющий вычисление площади на основе входящего массива вещественных чисел. Данный метод:
